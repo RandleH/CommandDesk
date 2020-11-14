@@ -2,7 +2,7 @@
 # Command-Desk(Project based on KEIL-MDK IDE 5.25.3.0 )
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RandleH/Command-Desk/master/Materials/CMD%20Desk%20Profile.png" width="440" height="293" border="10">
+<img src="https://raw.githubusercontent.com/RandleH/CommandDesk/master/MD/CMD%20Desk%20Profile.png" width="440" height="293" border="10">
 </p>
 
 The command desk is a programmable and useful tool for collecting data, adjusting parameters, showing results, controling devices and more. Command desk theoretically supports all devices with NRF24L01 or BLE but the interface should be rebuilt. 
